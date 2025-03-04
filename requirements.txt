@@ -1,0 +1,8 @@
+REQUIREMENTS:
+----------------------------------
+LIBRARIES:
+----------------------------------
+* hashlib
+* json
+* Fernet from cryptography.fernet
+----------------------------------
